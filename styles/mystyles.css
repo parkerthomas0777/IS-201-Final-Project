@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+
+a{ color: white ;
+
+}
+
+h2{
+    text-align: center;
+    color: darkslategrey;
+}
+
+footer{
+    font-size: smaller;
+    text-align: center;
+    color: darkslategrey;
+}
+
+main{
+    color: darkslategrey;
+}
+
+img{
+    padding-bottom: 7mm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe{
+    height: 120mm;
+    width: 200mm;
+    display: block;
+    margin:auto
+}
